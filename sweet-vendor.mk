@@ -1198,7 +1198,6 @@ PRODUCT_PACKAGES += \
     dpmapi \
     embmslibrary \
     qcrilhook \
-    qti-telephony-common \
     android.hardware.biometrics.fingerprint@2.1-service \
     android.hardware.gnss@2.1-service-qti \
     android.hardware.neuralnetworks@1.3-service-qti-hta \
